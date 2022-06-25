@@ -56,7 +56,7 @@
                         <td>
                             <a class="btn btn-sm btn-primary" href="salaoPut.php?nome=<?=$obj->nome?>&id=<?=$obj->id?>">Editar</a>                                                   
                             <a class="btn btn-sm btn-danger" href="salaoDelete.php?id=<?=$obj->id?>">Remover</a>              
-                        </td>                                        
+                        </td>                                           
                     </tr> 
                     <?php
                         }

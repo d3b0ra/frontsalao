@@ -19,7 +19,7 @@
         <div class="panel-body" align="center">            
             <br>
             <img src="./img/salao.png" height="30%" width="30%">
-            <br>
+            <br>    
             
         </div>        
     </div>
